@@ -1,1 +1,1 @@
-# Exercici_6-2
+Això és un fixer que pots llegir :)
