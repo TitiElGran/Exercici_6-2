@@ -25,7 +25,15 @@
     list-style:none;
     overflow: hidden;
     transition: 2s;
+}
+.MENU li ul li{
+    margin-left: 0px;
+} 
+.MENU>li:hover{
     height: auto;
+}
+.subMenu1>li{
+    margin-left: 20px;
 }
 .subMenu1>li>a:hover{  
     margin-left: 20px;
