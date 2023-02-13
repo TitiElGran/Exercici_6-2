@@ -11,6 +11,8 @@
     width: 400px;
     background-color: rgb(199, 253, 255);
     color: blue;
+    margin: 10px;
+    padding: 20px;
 }
 .MENU{
     color: blue;
@@ -30,6 +32,6 @@
     margin: 10px;
     padding: 20px;
 }
-.h11{
+.Hs{
     text-align: center;
 }
