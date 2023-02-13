@@ -27,7 +27,7 @@
     transition: 2s;
     height: auto;
 }
-.subMenu1>li:hover{  
+.subMenu1>li>a:hover{  
     margin-left: 20px;
 }
 .parag{
