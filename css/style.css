@@ -4,6 +4,9 @@
     width: 900px;
     margin: 50px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 4px;
+    border-color: blueviolet;
+    padding: 5px;
 }
 .caixaMenu{
     float: left;
