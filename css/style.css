@@ -3,7 +3,7 @@
     align-self: center;
     width: 900px;
     margin: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .caixaMenu{
     float: left;
@@ -15,14 +15,21 @@
 .MENU{
     color: blue;
     margin-left: 20px;
+    padding-top: 5px;
 }
 .subMenu1{  
     margin-left: 20px;
 }
 .parag{
+    color: rgb(94, 116, 0);
+    float: left;
     align-self: center;
     left: 50px;
     width: 800px;
     background-color: rgb(235, 255, 199);
-    margin: 50px;
+    margin: 10px;
+    padding: 20px;
+}
+.h11{
+    text-align: center;
 }
