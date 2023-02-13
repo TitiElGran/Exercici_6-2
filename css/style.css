@@ -2,7 +2,7 @@
 .tot{
     align-self: center;
     width: 900px;
-    margin: 100px;
+    margin: 50px;
 }
 .caixaMenu{
     left: 50px;
@@ -11,15 +11,15 @@
 }
 .MENU li a{
     color: rgb(0, 124, 207);
-    margin-left: 0;
+    margin-left: 20px;
 }
 .subMenu1>li>a:hover{  
-    margin-left: 20;
+    margin-left: 20px;
 }
 .parag{
-    left: 50;
-    width: 1000;
-    height: 4000;
+    left: 50px;
+    width: 1000px;
+    height: 4000px;
     background-color: rgb(235, 255, 199);
     margin: 50px;
 }
