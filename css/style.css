@@ -34,6 +34,7 @@
     position: absolute;
     min-width: 160px;
     z-index: 1;
+    transition: 2s;
 }
 .MENU:hover .subMenu1 {display: block;}
 .parag{
