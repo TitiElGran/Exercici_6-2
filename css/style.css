@@ -1,4 +1,3 @@
-/********** Mine ***********/
 .tot{
     align-self: center;
     width: 900px;
@@ -7,9 +6,11 @@
     border: 4px;
     border-color: blueviolet;
     padding: 5px;
+    align-items: center;
 }
 .caixaMenu{
-    float: left;
+    position: relative;
+    display: inline-block;
     left: 50px;
     width: 400px;
     background-color: rgb(199, 253, 255);
