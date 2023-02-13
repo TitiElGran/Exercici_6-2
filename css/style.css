@@ -1,8 +1,12 @@
 /********** Mine ***********/
+.tot{
+    align-self: center;
+    width: 900px;
+    margin: 100px;
+}
 .caixaMenu{
-    left: 50;
-    width: 800;
-    height: 1000;
+    left: 50px;
+    width: 700;
     color: rgb(199, 253, 255);
 }
 .MENU li a{
