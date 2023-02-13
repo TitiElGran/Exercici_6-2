@@ -18,26 +18,27 @@
     margin: 10px;
     padding: 20px;
 }
-.MENU>li>a:hover{
+.button{
+    border: none;
+}
+.MENU{
     color: blue;
     margin-left: 20px;
     padding-top: 5px;
     list-style:none;
     overflow: hidden;
     transition: 2s;
+    position: relative;
+    display: inline-block;
 }
-.MENU li ul li{
-    margin-left: 0px;
-} 
-.MENU>li:hover{
-    height: auto;
-}
-.subMenu1>li{
+.subMenu1{  
     margin-left: 20px;
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
 }
-.subMenu1>li>a:hover{  
-    margin-left: 20px;
-}
+.MENU:hover .subMenu1 {display: block;}
 .parag{
     color: rgb(94, 116, 0);
     float: left;
