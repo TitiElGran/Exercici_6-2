@@ -17,6 +17,7 @@
     color: blue;
     margin: 10px;
     padding: 20px;
+    height: auto;
 }
 .MENU{
     color: blue;
@@ -31,7 +32,7 @@
 .subMenu1{  
     margin-left: 20px;
     display: none;
-    position: absolute;
+    position: relative;
     min-width: 160px;
     z-index: 1;
     transition: 2s;
