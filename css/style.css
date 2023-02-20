@@ -7,11 +7,11 @@
     border-color: blueviolet;
     padding: 5px;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.747);
 }
 .caixaMenu{
     text-decoration: none;
-    position: relative;
+    position: fixed;
+    top: 100px;
     display: inline-block;
     width: 400px;
     background-color: rgb(199, 253, 255);
