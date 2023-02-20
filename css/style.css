@@ -3,7 +3,7 @@
 }
 .tot{
     align-self: center;
-    width: 900px;
+    width: auto;
     margin: 50px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     border: 4px;
@@ -12,6 +12,7 @@
     align-items: center;
 }
 .caixaMenu{
+    text-decoration: none;
     position: relative;
     display: inline-block;
     left: 200px;
@@ -38,6 +39,8 @@
     position: relative;
     z-index: 1;
     transition: 2s;
+    text-decoration: none;
+    list-style-type: none;
 }
 .MENU:hover .subMenu1 {display: block;}
 .parag{
