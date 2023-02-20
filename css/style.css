@@ -13,7 +13,6 @@
     text-decoration: none;
     position: relative;
     display: inline-block;
-    left: 200px;
     width: 400px;
     background-color: rgb(199, 253, 255);
     color: blue;
@@ -21,6 +20,7 @@
     padding: 20px;
     height: auto;
     border-radius: 10%;
+    float: left;
 }
 .MENU{
     color: blue;
@@ -44,7 +44,7 @@
 .MENU:hover .subMenu1 {display: block;}
 .parag{
     color: rgb(94, 116, 0);
-    float: left;
+    float: right;
     align-self: center;
     left: 50px;
     width: 800px;
