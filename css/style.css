@@ -12,6 +12,7 @@
     text-decoration: none;
     position: fixed;
     top: 200px;
+    left: 20px;
     display: inline-block;
     width: 400px;
     background-color: rgb(199, 253, 255);
